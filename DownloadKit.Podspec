@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = ‘DownloadKit’
+  spec.name         = 'DownloadKit'
   spec.version      = '1.0.0'
   spec.license      = { :type => 'BSD' }
   spec.homepage     = 'https://github.com/dadademao/DownloadKit'
